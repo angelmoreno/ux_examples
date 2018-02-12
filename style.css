@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* CSS Document */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.credits a {
+	margin:3%;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	color:#B3B5B6;
+	text-decoration:none
+}
